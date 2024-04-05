@@ -16,7 +16,7 @@ function distanceFromHqInBlocks(number){
  function distanceTravelledInFeet(feet,block){
     return (block - feet)* 264;
  }
- console.log(distanceFromHqInBlocks(50));
+ console.log(distanceFromHqInBlocks(50));/////////////////
  console.log(distanceFromHqInFeet(8));
  console,log(distanceTravelledInFeet(50,8));
 
